@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51f52fbf-a299-4a6c-b440-70e8c12641b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CycleLesson/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CycleLesson/SquareRootService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CycleLesson/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CycleLesson/СycleLessonFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FaceControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Arrays/TemperatureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Strings/StringLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/Strings/StringsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MavenLesson5/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MavenLesson5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CycleLesson/SquareRootServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FaceControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitLesson/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitLesson/ParameterizedBonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitLesson/ParameterizedBonusServiceTestNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson7/HomeworkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson7/StringsServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson7/TemperatureServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedFaceControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedFaceControlTestNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/bonus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/faceControl.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q0vWmDw3eN1bc2B08vpuAKL6ez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HomeworkTest.maxDayTest">
+    <configuration name="HomeworkTest.maxDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NetologyJavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson7" />
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeworkTest" />
+      <option name="METHOD_NAME" value="maxDayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.midTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NetologyJavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson7" />
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeworkTest" />
+      <option name="METHOD_NAME" value="midTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.minDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NetologyJavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson7" />
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeworkTest" />
+      <option name="METHOD_NAME" value="minDayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.sumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NetologyJavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson7" />
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeworkTest" />
+      <option name="METHOD_NAME" value="sumTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatuteServiceTest.findMinTemp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NetologyJavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson7" />
+      <option name="MAIN_CLASS_NAME" value="Lesson7.TemperatuteServiceTest" />
+      <option name="METHOD_NAME" value="findMinTemp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomeworkTest.maxDayTest" />
+        <item itemvalue="JUnit.HomeworkTest.minDayTest" />
+        <item itemvalue="JUnit.HomeworkTest.midTest" />
+        <item itemvalue="JUnit.HomeworkTest.sumTest" />
+        <item itemvalue="JUnit.TemperatuteServiceTest.findMinTemp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51f52fbf-a299-4a6c-b440-70e8c12641b3" name="Changes" comment="" />
+      <created>1684503346344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684503346344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
